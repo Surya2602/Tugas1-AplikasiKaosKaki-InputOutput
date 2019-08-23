@@ -1,0 +1,10 @@
+   <resources>
+    <string name="app_name">input_r</string>
+    <string name="motif">Motif</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="warna">Warna</string>
+    <string name="cetak">Submit</string>
+       <string name="output_motif">Motif</string>
+       <string name="output_ukuran">Ukuran</string>
+       <string name="output_warna">Warna</string>
+   </resources>
